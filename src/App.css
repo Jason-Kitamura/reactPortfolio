@@ -1,0 +1,150 @@
+.App {
+  background-image: url('./assets/yosemiteDark.jpg');
+  position: fixed;
+  min-width: 100%;
+  min-height: 100%;
+  background-size: cover;
+  background-position: center;
+  color: whitesmoke;
+  text-shadow: 6px 6px 3px #000000;
+}
+.header {
+  text-align: center;
+  text-shadow: 6px 6px 8px #000000;
+}
+#content {
+  border: whitesmoke solid;
+  border-radius : 10px ;
+  min-height: 400px;
+  width: 80%;
+  max-width: 1000px;
+  display: block;
+  margin: auto;
+  padding-bottom: 4%;
+  box-shadow: 8px 8px 20px #000000;
+
+}
+.center {
+  display: block;
+  margin: auto;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+#navigation {
+  display: block;
+  margin: auto;
+  text-align: center;
+}
+#aboutMe{
+  color: whitesmoke;
+}
+#portfolio{
+  color: whitesmoke;
+}
+#contact{
+  color: whitesmoke;
+}
+#profilePic {
+  display: block;
+  margin: auto;
+  margin-top: 15px;
+  height: 200px;
+  width: auto;
+  border: whitesmoke solid;
+  border-radius: 5px;
+  box-shadow: 8px 8px 20px #000000;
+
+}
+#docLinks {
+  display: block;
+  margin: auto;
+  margin-top: 10px;
+  text-align: center;
+}
+#bio {
+  display: block;
+  margin: auto;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  border: whitesmoke solid thin;
+  border-radius: 5px;
+  max-width: 700px ;
+  width: 80%;
+  text-align: center;
+  padding: 5%;
+  padding-top: 2%;
+  box-shadow: 8px 8px 20px #000000;
+}
+#projectDescription {
+  width : 75%;
+  font-size: 20px;
+}
+#gifArea {
+  width: 80%;
+  max-width: 900px;
+  height: auto;
+  border: whitesmoke solid thin;
+  border-radius: 5px;
+  padding: 10px;
+  box-shadow: 8px 8px 20px #000000;
+}
+.inputStyle {
+  border-radius: 5px;
+}
+.form-control{
+  box-shadow: 8px 8px 10px #000000;
+}
+#gif {
+  width: 100%;
+  height: auto;
+}
+#emailForm {
+  display: block;
+  margin: auto;
+}
+#emailMessage {
+  height: 100px
+}
+#email-Btn {
+  border-radius: 5px;
+  float : right;
+  box-shadow: 8px 8px 10px #000000;
+}
+.pointer {
+  cursor: pointer;
+}
+@media screen and ( max-width: 480px ){
+  body{
+      width: 100%;
+      margin: none;
+  }
+  #content {
+      width: 99%;
+      border: none;
+      box-shadow: none;
+  }
+  #projectDescription {
+    width : 95%;
+    font-size: 20px;
+  }
+  #gifArea {
+      width: 100%;
+      padding-bottom: 10px;
+      /* border: thin; */
+      /* box-shadow: none; */
+  }
+  .inputStyle {
+      width: 51%;
+      display: block;
+      margin: auto;
+  }
+  #projects {
+      margin-bottom: 50px;
+  }
+  .contact1-form {
+      padding-left: 10%;
+      padding-right: 10%;
+  }
+}
