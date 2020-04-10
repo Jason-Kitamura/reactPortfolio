@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/reactPortfolio/static/css/main.b6675e3c.chunk.css",
+    "main.js": "/reactPortfolio/static/js/main.3e00df75.chunk.js",
+    "main.js.map": "/reactPortfolio/static/js/main.3e00df75.chunk.js.map",
+    "runtime-main.js": "/reactPortfolio/static/js/runtime-main.b25a74c4.js",
+    "runtime-main.js.map": "/reactPortfolio/static/js/runtime-main.b25a74c4.js.map",
+    "static/js/2.116b9dec.chunk.js": "/reactPortfolio/static/js/2.116b9dec.chunk.js",
+    "static/js/2.116b9dec.chunk.js.map": "/reactPortfolio/static/js/2.116b9dec.chunk.js.map",
+    "index.html": "/reactPortfolio/index.html",
+    "precache-manifest.ff52dd58db0011768029f8442d03ef59.js": "/reactPortfolio/precache-manifest.ff52dd58db0011768029f8442d03ef59.js",
+    "service-worker.js": "/reactPortfolio/service-worker.js",
+    "static/css/main.b6675e3c.chunk.css.map": "/reactPortfolio/static/css/main.b6675e3c.chunk.css.map",
+    "static/js/2.116b9dec.chunk.js.LICENSE.txt": "/reactPortfolio/static/js/2.116b9dec.chunk.js.LICENSE.txt",
+    "static/media/cmsGif.gif": "/reactPortfolio/static/media/cmsGif.631cc3b3.gif",
+    "static/media/farmer.gif": "/reactPortfolio/static/media/farmer.8eb258ca.gif",
+    "static/media/profilePic.png": "/reactPortfolio/static/media/profilePic.4352761b.png",
+    "static/media/realtor.gif": "/reactPortfolio/static/media/realtor.c76dfc38.gif",
+    "static/media/App.css": "/reactPortfolio/static/media/yosemiteDark.ec82ad17.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b25a74c4.js",
+    "static/js/2.116b9dec.chunk.js",
+    "static/css/main.b6675e3c.chunk.css",
+    "static/js/main.3e00df75.chunk.js"
+  ]
+}
