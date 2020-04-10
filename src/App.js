@@ -18,9 +18,9 @@ import Contact  from './components/Contact'
           <Navigation className="Navigation"/>      
           <content id="content">
             <Switch>
-              <Route exact path = "/" component={AboutMe}/>
               <Route path = "/portfolio" component={Portfolio}/>
               <Route path = "/contact" component={Contact}/>
+              <Route path = "/" component={AboutMe}/>
             </Switch>
           </content>
         </div>
