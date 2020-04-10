@@ -20,6 +20,7 @@ import Contact  from './components/Contact'
             <Switch>
               <Route path = "/portfolio" component={Portfolio}/>
               <Route path = "/contact" component={Contact}/>
+              <Route path = "/reactPortfolio" component={AboutMe}/>
               <Route path = "/" component={AboutMe}/>
             </Switch>
           </content>
